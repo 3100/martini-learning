@@ -1,0 +1,6 @@
+doctype html
+html
+  head
+    title RenderGold
+  body
+    h1 Hello RenderGold!
